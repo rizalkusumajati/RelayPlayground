@@ -1,0 +1,71 @@
+{
+  "name": "card",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "1Qiaa7TPNdhNjTiiiNr2DS",
+    "node": "1254:12",
+    "version": "2965202826",
+    "component-id": "87e9b1a3e2b428f11fc8c4757c9a2646e4542311"
+  },
+  "default": "card",
+  "documentation": "extract component to one frame",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "adin_component",
+        "id": "Group 79",
+        "key": "group_79"
+      }
+    ],
+    "modes": {
+      "card": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Group 79"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Group 79",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "271.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "card",
+      "size": {
+        "width": 271.0,
+        "height": 68.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,214 @@
+{
+  "name": "group_79",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "1Qiaa7TPNdhNjTiiiNr2DS",
+    "node": "1252:2",
+    "version": "2965202826",
+    "component-id": "fb81dde51f973fd6f453e1e9e1b4bda67dbd0d13"
+  },
+  "default": "Group 79",
+  "documentation": "Telephone card use to display phone number",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 16"
+      },
+      {
+        "type": "group",
+        "id": "Group 77"
+      },
+      {
+        "type": "group",
+        "id": "Group 78"
+      },
+      {
+        "type": "text",
+        "id": "Mobile Money"
+      },
+      {
+        "type": "text",
+        "id": "0704 688781"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      }
+    ],
+    "modes": {
+      "Group 79": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 16",
+              "Group 77",
+              "Group 78"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 16",
+            "border-radius": "12.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_16.svg"
+          },
+          {
+            "id": "Group 77",
+            "margin": {
+              "left": "94.0",
+              "top": "19.0",
+              "right": "111.0",
+              "bottom": "20.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Mobile Money",
+              "0704 688781"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 78",
+            "margin": {
+              "left": "15.0",
+              "top": "19.0",
+              "right": "226.0",
+              "bottom": "19.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Ellipse 4",
+              "Vector"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Mobile Money",
+            "margin": {
+              "right": "4.0",
+              "bottom": "17.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "300.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "220.00000000000017",
+              "saturation": "0.021428571428571554",
+              "value": "0.5490196078431373"
+            },
+            "text-content": "Mobile Money",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "0704 688781",
+            "margin": {
+              "left": "1.0",
+              "top": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "236.47058823529414",
+              "saturation": "1.0",
+              "value": "0.26666666666666666"
+            },
+            "text-content": "0704 688781",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "11.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Ellipse 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "ellipse_4.svg"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "6.0",
+              "top": "6.0",
+              "right": "6.1854248046875",
+              "bottom": "6.185302734375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Group 79",
+      "size": {
+        "width": 271.0,
+        "height": 68.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
